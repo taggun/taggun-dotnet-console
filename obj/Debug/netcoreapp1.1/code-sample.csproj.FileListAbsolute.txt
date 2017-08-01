@@ -1,0 +1,8 @@
+C:\taggun\code-sample\bin\Debug\netcoreapp1.1\code-sample.deps.json
+C:\taggun\code-sample\bin\Debug\netcoreapp1.1\code-sample.runtimeconfig.json
+C:\taggun\code-sample\bin\Debug\netcoreapp1.1\code-sample.runtimeconfig.dev.json
+C:\taggun\code-sample\bin\Debug\netcoreapp1.1\code-sample.dll
+C:\taggun\code-sample\bin\Debug\netcoreapp1.1\code-sample.pdb
+C:\taggun\code-sample\obj\Debug\netcoreapp1.1\code-sample.AssemblyInfo.cs
+C:\taggun\code-sample\obj\Debug\netcoreapp1.1\code-sample.dll
+C:\taggun\code-sample\obj\Debug\netcoreapp1.1\code-sample.pdb
